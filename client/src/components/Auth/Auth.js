@@ -1,12 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const Auth = () => {
-    const state = null;
-    return (
-        <div>
-            AUTH
-        </div>
-    )
-}
+const Auth = () => (
+  <div>
+    AUTH
+  </div>
+);
 
-export default Auth
+export default Auth;
